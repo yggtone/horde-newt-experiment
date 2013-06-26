@@ -1,0 +1,11 @@
+
+
+
+This is an experimental game engine test using Horde3D beta for rendering, 
+Newton Dynamics(3.0 beta) for physics, and Ogg Vorbis for audio.
+The project was in the process of porting for building on multiple platforms, 
+so not all components are ready.  The physics integration has worked successfully in testing, 
+so the use of the relevant functions should work as long as they are updated for the latest library versions.
+
+
+This code is released under the Eclipse Public License.
